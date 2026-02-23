@@ -1,63 +1,94 @@
 # KeelStack Community 🚀
 
-Welcome to the official KeelStack community! This is a public space for indie hackers, founders, and developers who build with KeelStack templates. 
-
-- **Get help**, ask questions, and share your knowledge.
-- **Show off** what you’re building with KeelStack.
-- **Suggest ideas** for new templates or improvements.
-- **Celebrate wins** in our Wall of Love ❤️.
-
-> ⚠️ **Need private support?** For order issues or sensitive questions, email us directly at [support@keelstack.me](mailto:support@keelstack.me). We aim to respond within 24 hours.
+Welcome to the official KeelStack community! This is a public space for indie hackers, founders, and developers who build with KeelStack templates. Whether you're just getting started or launching your next SaaS, you'll find help, inspiration, and friendly faces here.
 
 ---
 
-## 📢 Community Guidelines
+## 📚 Categories
 
-Be respectful, helpful, and kind. This is a harassment‑free zone for builders. 
-
-- No spam or self‑promotion outside the Show and Tell category.
-- For code‑related questions, provide as much context as possible (screenshots, error logs).
-- Respect confidentiality – don’t share private code or sensitive data.
-- No sharing of private repository links or license keys. Violation results in an immediate ban from the KeelStack ecosystem.
-
----
-
-## ❓ How to Get Help
-
-1. Search existing discussions – your question may already be answered.
-2. If not, open a new discussion in the **Q&A** category.
-3. Provide details: What stack you’re using, what you’ve tried, and any error messages.
+| Category | Description | Best For |
+|----------|-------------|----------|
+| **📢 Announcements** | Updates from the KeelStack team | New template releases, feature announcements, important news *(maintainers only)* |
+| **💬 General** | Chat about anything and everything | Off‑topic conversations, indie hacking discussions, dev life, random thoughts |
+| **💡 Ideas** | Share ideas for new features, templates, or improvements | Feature requests, template suggestions, upvote ideas you love |
+| **📊 Polls** | Vote on upcoming features, templates, and ideas! | Quick community votes, feedback gathering, interactive decisions |
+| **❓ Q&A** | Ask the community for help – answers enabled! | Technical questions, troubleshooting, best practices *(mark answers as helpful)* |
+| **🚀 Show and tell** | Show off something you've built with KeelStack | Project showcases, demos, launches, “look what I made” moments |
+| **❤️ Wall of Love** | Leave a testimonial, kudos, or success story | Testimonials, shout‑outs, appreciation posts, success stories |
+| **🔧 Tips & Tricks** | Share helpful workflows, scripts, or integrations | Useful snippets, deployment tips, productivity hacks, integrations |
 
 ---
 
-## 🚀 Show and Tell
+## 🌟 Getting Started
 
-Built something cool with KeelStack? We’d love to see it! Post in the **Show and Tell** category with a link, screenshot, or short description. It inspires others and might get featured in our newsletter.
-
----
-
-## ❤️ Wall of Love
-
-Love KeelStack? Leave a testimonial in the **Wall of Love** category! 
-
-- What did you build?
-- How much time did KeelStack save you?
-- Would you recommend it to other founders?
-
-Your words help other indie hackers discover us and grow the community.
+1. **Browse existing discussions** – your question or topic may already be covered.
+2. **Choose the right category** – this helps others find and answer your post.
+3. **Be specific** – include details like your stack, what you've tried, and any error messages (for Q&A).
+4. **Be respectful** – we're all here to learn and grow together.
 
 ---
 
-## 💡 Ideas & Feedback
+## 📋 Community Guidelines
 
-Have an idea for a new template, feature, or improvement? Post it in **Ideas**. We read every suggestion and prioritize based on upvotes.
+- **Be kind and constructive** – harassment, trolling, or negativity will not be tolerated.
+- **No spam or self‑promotion** outside the **Show and tell** category.
+- **Keep code snippets brief** – for longer code, use GitHub Gist or similar and link to it.
+- **Don't share sensitive information** – no API keys, passwords, or private code.
+- **Search before posting** – your question may already be answered.
 
 ---
 
-## 📧 Contact
+## ❓ Need Private Support?
 
-For private matters: **[support@keelstack.me](mailto:support@keelstack.me)**  
-For everything else: use the discussions!
+For order issues, refund requests, or sensitive questions that shouldn't be public:
+
+📧 **Email:** [support@keelstack.me](mailto:support@keelstack.me)
+
+We respond within 24 hours, usually faster.
+
+---
+
+## 🚀 Built Something Awesome?
+
+We'd love to see it! Post in **Show and tell** with:
+- A link to your project (live site, GitHub repo, etc.)
+- What you built
+- How KeelStack helped you get there
+- Any lessons learned or tips for others
+
+Your story inspires the whole community!
+
+---
+
+## ❤️ Love KeelStack?
+
+Leave a note in **Wall of Love**! A few sentences about your experience helps other indie hackers discover us and keeps us motivated to build more.
+
+---
+
+## 💡 Have an Idea?
+
+Suggest it in **Ideas**! We read every suggestion and prioritize based on community interest. Upvote ideas you'd like to see built.
+
+---
+
+## 📊 Want to Influence the Roadmap?
+
+Participate in **Polls**! We regularly run polls to decide what to build next, which integrations to add, and how to improve KeelStack.
+
+---
+
+## 🔧 Found a Clever Workaround?
+
+Share it in **Tips & Tricks**! Whether it's a deployment optimization, a useful script, or an integration with another tool, your insights help everyone build better.
+
+---
+
+## 🤝 Stay Connected
+
+- **Visit our website:** [keelstack.me](https://keelstack.me)
+- **Email:** [support@keelstack.me](mailto:support@keelstack.me)
+
 
 Happy building!  
-– The KeelStack Team
+**– The KeelStack Team** ⚓
