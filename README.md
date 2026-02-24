@@ -75,9 +75,9 @@ We aim to respond within 24 hours—usually faster.
 
 We welcome contributions to our community resources! Check out our:
 
-- [Contributing Guidelines](https://github.com/KeelStack-me/community/tree/main?tab=contributing-ov-file)
-- [Code of Conduct](https://github.com/KeelStack-me/community/tree/main?tab=coc-ov-file)
-- [Security Policy](https://github.com/KeelStack-me/community/tree/main?tab=security-ov-file)
+- [Contributing Guidelines](https://github.com/keelstack-me/.github/blob/main/CONTRIBUTING.md)
+- [Code of Conduct](https://github.com/keelstack-me/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Security Policy](https://github.com/keelstack-me/.github/blob/main/SECURITY.md)
 
 ---
 
