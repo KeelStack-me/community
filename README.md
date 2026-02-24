@@ -75,9 +75,9 @@ We aim to respond within 24 hours—usually faster.
 
 We welcome contributions to our community resources! Check out our:
 
-- [Contributing Guidelines](https://github.com/KeelStack-me/community/tree/main?tab=readme-ov-file#)
-- [Code of Conduct](https://github.com/KeelStack-me/community/tree/main?tab=readme-ov-file#)
-- [Security Policy](https://github.com/KeelStack-me/community/tree/main?tab=readme-ov-file#)
+- [Contributing Guidelines](https://github.com/KeelStack-me/community/tree/main?tab=contributing-ov-file)
+- [Code of Conduct](https://github.com/KeelStack-me/community/tree/main?tab=coc-ov-file)
+- [Security Policy](https://github.com/KeelStack-me/community/tree/main?tab=security-ov-file)
 
 ---
 
