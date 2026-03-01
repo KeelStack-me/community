@@ -8,7 +8,7 @@ Whether you're a first-time founder or a seasoned builder, you'll find help, ins
 
 ## 🎯 Why Join?
 
-- **Get unstuck** – Ask questions, share errors, learn from others.
+- **Solve faster** – Ask questions, debug issues, learn from shared experience.
 - **Shape the roadmap** – Vote on features, suggest new templates.
 - **Show your work** – Get feedback, celebrate wins, inspire others.
 - **Build connections** – Network with fellow founders who get it.
@@ -24,7 +24,7 @@ Whether you're a first-time founder or a seasoned builder, you'll find help, ins
 | **💡 Ideas** | Share and upvote feature requests | New template ideas, product improvements, community suggestions |
 | **📊 Polls** | Quick community votes | Deciding what to build next, gathering feedback, interactive decisions |
 | **❓ Q&A** | Get help from the community | Technical questions, troubleshooting, best practices *(mark answers as helpful)* |
-| **🚀 Show and Tell** | Showcase what you've built | Project demos, launches, "look what I made" moments |
+| **🚀 Show and Tell** | Showcase what you've built | Project demos, launches, "real-world builds, experiments, and wins" moments |
 | **❤️ Wall of Love** | Leave a testimonial or shout‑out | Success stories, kudos, appreciation posts |
 | **🔧 Tips & Tricks** | Share useful workflows | Deployment hacks, AI prompts, integrations, productivity tips |
 
@@ -42,6 +42,17 @@ New here? Here's how to jump in:
 
 ---
 
+## 🧑‍💻 Who Can Join?
+
+- Students learning backend architecture  
+- Indie hackers building side projects  
+- Founders using KeelStack in production  
+- Engineers curious about developer-focused systems  
+
+No purchase required. Just bring curiosity, respect, and a willingness to learn.
+
+---
+
 ## 📋 Community Guidelines
 
 - **Be kind and constructive** – Harassment, trolling, or negativity will not be tolerated.
@@ -56,9 +67,11 @@ New here? Here's how to jump in:
 
 For order issues, refund requests, or sensitive questions:
 
-📧 **Email:** [support@keelstack.me](mailto:support@keelstack.me)
+**📧 Order or account issue?**
+[support@keelstack.me](mailto:support@keelstack.me) — 24hr response, often faster.
 
-We aim to respond within 24 hours—usually faster.
+💡 Just need general help or want to learn?  
+You don’t need to buy anything — ask freely in Discussions or the Q&A section.
 
 ---
 
@@ -67,7 +80,6 @@ We aim to respond within 24 hours—usually faster.
 - **Website:** [keelstack.me](https://keelstack.me)
 - **Email:** [hello@keelstack.me](mailto:hello@keelstack.me) – for general inquiries, feedback, or just to say hi
 - **X (Twitter):** [@KeelStack](https://twitter.com/keelstack)
-- **LinkedIn:** [KeelStack Community](https://www.linkedin.com/groups/18353054/) 
 
 ---
 
@@ -85,3 +97,5 @@ We welcome contributions to our community resources! Check out our:
 – The KeelStack Team ⚓
 
 *Build Fast. Own 100%.*
+---
+⭐️ If you find value in KeelStack, [star the repo](https://github.com/KeelStack-me/community) to support the project!
